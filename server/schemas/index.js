@@ -1,5 +1,5 @@
 const typeDefs = require("./typeDefs");
-const resolvers = require("./resolversresolvers");
+const resolvers = require("./resolvers");
 
 
 
