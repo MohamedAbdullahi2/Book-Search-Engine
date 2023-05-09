@@ -32,14 +32,11 @@ Click on a book to view its details, including a summary, cover image the book.
 
 Create an account to save your favorite books to read later.
 
-![image](https://user-images.githubusercontent.com/118404373/236971407-85294ed4-4455-4c98-b63f-291f34172a1e.png)
-![image](https://user-images.githubusercontent.com/118404373/236971477-3ba14772-2235-4d24-8368-b4050cc111d5.png)
-![image](https://user-images.githubusercontent.com/118404373/236971613-f422fb4c-226f-4da7-91ec-d76ea305abdb.png)
-![image](https://user-images.githubusercontent.com/118404373/236971671-67389827-597d-438b-a82e-8f88804fa787.png)
-![image](https://user-images.githubusercontent.com/118404373/236971701-b80231ca-5b64-45c7-bd95-34f5c3221643.png)
-
-
-
+<img width="935" alt="image" src="https://user-images.githubusercontent.com/118404373/236971946-5904987b-814b-4584-8585-1f28320b0308.png">
+<img width="911" alt="image" src="https://user-images.githubusercontent.com/118404373/236972139-d8f1a35c-b8e4-47cb-a263-6664773b0882.png">
+<img width="926" alt="image" src="https://user-images.githubusercontent.com/118404373/236972247-dce6b034-cf51-4f13-bfdc-4f58d1142cd3.png">
+<img width="931" alt="image" src="https://user-images.githubusercontent.com/118404373/236972336-a7cab215-0cdd-4c52-a985-89c2af99fa55.png">
+<img width="917" alt="image" src="https://user-images.githubusercontent.com/118404373/236972403-569b04c4-f99e-4b68-a178-23180060424e.png">
 
 
 
