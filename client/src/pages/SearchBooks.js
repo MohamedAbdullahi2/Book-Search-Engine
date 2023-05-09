@@ -4,6 +4,7 @@ import Auth from '../utils/auth';
 import { saveBookIds, getSavedBookIds } from '../utils/localStorage';
 import { useMutation } from '@apollo/client';
 import { SAVE_BOOK } from '../utils/mutations';
+import { searchGoogleBooks } from "../utils/API";
 
 const SearchBooks = () => {
   const [searchedBooks, setSearchedBooks] = useState([]);
@@ -24,9 +25,7 @@ const SearchBooks = () => {
     }
 
     try {
-      const response = await fetch(
-        `https://www.googleapis.com/books/v1/volumes?q=${searchInput}`
-      );
+      const response = await searchGoogleBooks(searchInput);
 
       if (!response.ok) {
         throw new Error('Something went wrong!');
@@ -59,7 +58,7 @@ const SearchBooks = () => {
 
     try {
       const { data } = await saveBook({
-        variables: { newBook: { ...bookToSave } },
+        variables: { bookData: { ...bookToSave } },
       });
 
       setSavedBookIds([...savedBookIds, bookToSave.bookId]);
