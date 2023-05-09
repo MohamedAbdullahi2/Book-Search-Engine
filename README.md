@@ -32,6 +32,15 @@ Click on a book to view its details, including a summary, cover image the book.
 
 Create an account to save your favorite books to read later.
 
+![image](https://user-images.githubusercontent.com/118404373/236971407-85294ed4-4455-4c98-b63f-291f34172a1e.png)
+![image](https://user-images.githubusercontent.com/118404373/236971477-3ba14772-2235-4d24-8368-b4050cc111d5.png)
+![image](https://user-images.githubusercontent.com/118404373/236971613-f422fb4c-226f-4da7-91ec-d76ea305abdb.png)
+![image](https://user-images.githubusercontent.com/118404373/236971671-67389827-597d-438b-a82e-8f88804fa787.png)
+![image](https://user-images.githubusercontent.com/118404373/236971701-b80231ca-5b64-45c7-bd95-34f5c3221643.png)
+
+
+
+
 
 
 
