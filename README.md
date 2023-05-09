@@ -25,7 +25,7 @@ Start the app using **npm start**.
 
 To use the app, follow these steps:
 
-Open the app in your web browser at http://localhost:3000.
+Open the app in your web browser at https://dashboard.heroku.com/apps/booksearch-engine-mern.
 
 Use the search bar to search for books by title, author, or keyword.
 Click on a book to view its details, including a summary, cover image the book.
